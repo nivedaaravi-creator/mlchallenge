@@ -27,10 +27,3 @@ __MACOSX/
 *.swp
 *.swo
 
-# Dataset files (large TSV/CSV data files exceeding GitHub limit)
-*.tsv
-*.csv
-dataset/train/*.tsv
-dataset/test/*.tsv
-dataset/**/*.tsv
-dataset/**/*.csv
